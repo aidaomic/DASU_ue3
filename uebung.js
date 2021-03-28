@@ -1,2 +1,7 @@
-document.body.style.backgroundColor = "pink";
-alert("JS File executet succesfully!");
+function pinkcolor(){
+	document.body.style.backgroundColor = "pink";
+}
+
+function popup(){
+	alert("JS File executet succesfully!");
+}
